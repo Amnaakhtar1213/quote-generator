@@ -1,4 +1,4 @@
-##  random quotes generator 🧠
+##  random quotes generator 🎯
 
 A random quotes generator is a simple program that displays a different motivational or inspirational quote each time you run it. The idea is to keep things fresh so you don’t see the same quote repeatedly until all have been shown.
 
