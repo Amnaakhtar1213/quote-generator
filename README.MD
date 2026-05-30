@@ -30,10 +30,10 @@ Here's take a quick preview:
 ## LIVE DEMO 🌐
 
 Here's take a quick test and motivate yourself:
-- [Click here for live-demo to motivate yourself]()
+- [Click here for live-demo to motivate yourself](https://amnaakhtar1213.github.io/quote-generator/)
 
 --------------------------
 
 ## Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Amnaakhtar1213/quote-generator.git
