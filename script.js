@@ -17,7 +17,8 @@ const quotes = [
   "Push yourself, because no one else will.",
   "Work in silence, let success make the noise.",
   "Fall seven times, stand up eight.",
-  "Your only limit is you."
+  "Your only limit is you.",
+  "GO BIG, OR GO HOME"
 ]
 
 const usedIndexes = new Set()
